@@ -1,0 +1,97 @@
+2025-10-02 16:03:51,825 - __main__ - INFO - Creating data loaders...
+2025-10-02 16:03:51,825 - data.dataloader - INFO - Creating train and validation dataloaders
+2025-10-02 16:03:51,826 - data.dataloader - INFO - Found 80 data files
+2025-10-02 16:03:51,828 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01105.pkl
+2025-10-02 16:03:51,830 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01109.pkl
+2025-10-02 16:03:51,832 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01210.pkl
+2025-10-02 16:03:51,833 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01276.pkl
+2025-10-02 16:03:51,835 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01362.pkl
+2025-10-02 16:03:51,837 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01450.pkl
+2025-10-02 16:03:51,838 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01480.pkl
+2025-10-02 16:03:51,841 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01545.pkl
+2025-10-02 16:03:51,842 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01647.pkl
+2025-10-02 16:03:51,844 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01649.pkl
+2025-10-02 16:03:51,845 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01781.pkl
+2025-10-02 16:03:51,846 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01878.pkl
+2025-10-02 16:03:51,848 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01889.pkl
+2025-10-02 16:03:51,849 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01990.pkl
+2025-10-02 16:03:51,851 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02220.pkl
+2025-10-02 16:03:51,852 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02245.pkl
+2025-10-02 16:03:51,854 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02303.pkl
+2025-10-02 16:03:51,855 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02311.pkl
+2025-10-02 16:03:51,857 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02389.pkl
+2025-10-02 16:03:51,858 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02397.pkl
+2025-10-02 16:03:51,859 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02515.pkl
+2025-10-02 16:03:51,861 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02707.pkl
+2025-10-02 16:03:51,862 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02728.pkl
+2025-10-02 16:03:51,864 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02825.pkl
+2025-10-02 16:03:51,865 - data.dataloader - INFO - Loaded 4 samples from ./data/params/03325.pkl
+2025-10-02 16:03:51,866 - data.dataloader - INFO - Loaded 4 samples from ./data/params/03580.pkl
+2025-10-02 16:03:51,868 - data.dataloader - INFO - Loaded 4 samples from ./data/params/03669.pkl
+2025-10-02 16:03:51,869 - data.dataloader - INFO - Loaded 4 samples from ./data/params/03701.pkl
+2025-10-02 16:03:51,871 - data.dataloader - INFO - Loaded 4 samples from ./data/params/03780.pkl
+2025-10-02 16:03:51,872 - data.dataloader - INFO - Loaded 4 samples from ./data/params/03792.pkl
+2025-10-02 16:03:51,874 - data.dataloader - INFO - Loaded 4 samples from ./data/params/03852.pkl
+2025-10-02 16:03:51,875 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04266.pkl
+2025-10-02 16:03:51,876 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04301.pkl
+2025-10-02 16:03:51,878 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04327.pkl
+2025-10-02 16:03:51,879 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04402.pkl
+2025-10-02 16:03:51,880 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04493.pkl
+2025-10-02 16:03:51,882 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04670.pkl
+2025-10-02 16:03:51,883 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04757.pkl
+2025-10-02 16:03:51,885 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04786.pkl
+2025-10-02 16:03:51,886 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05075.pkl
+2025-10-02 16:03:51,888 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05184.pkl
+2025-10-02 16:03:51,889 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05221.pkl
+2025-10-02 16:03:51,890 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05295.pkl
+2025-10-02 16:03:51,892 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05489.pkl
+2025-10-02 16:03:51,895 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05617.pkl
+2025-10-02 16:03:51,896 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05630.pkl
+2025-10-02 16:03:51,897 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05658.pkl
+2025-10-02 16:03:51,899 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05696.pkl
+2025-10-02 16:03:51,900 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05701.pkl
+2025-10-02 16:03:51,902 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05886.pkl
+2025-10-02 16:03:51,903 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06179.pkl
+2025-10-02 16:03:51,904 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06204.pkl
+2025-10-02 16:03:51,906 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06265.pkl
+2025-10-02 16:03:51,907 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06268.pkl
+2025-10-02 16:03:51,909 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06401.pkl
+2025-10-02 16:03:51,910 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06425.pkl
+2025-10-02 16:03:51,911 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06518.pkl
+2025-10-02 16:03:51,913 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06566.pkl
+2025-10-02 16:03:51,914 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06736.pkl
+2025-10-02 16:03:51,916 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06802.pkl
+2025-10-02 16:03:51,917 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06949.pkl
+2025-10-02 16:03:51,918 - data.dataloader - INFO - Loaded 4 samples from ./data/params/07078.pkl
+2025-10-02 16:03:51,920 - data.dataloader - INFO - Loaded 4 samples from ./data/params/07145.pkl
+2025-10-02 16:03:51,921 - data.dataloader - INFO - Loaded 4 samples from ./data/params/07342.pkl
+2025-10-02 16:03:51,923 - data.dataloader - INFO - Loaded 4 samples from ./data/params/07419.pkl
+2025-10-02 16:03:51,924 - data.dataloader - INFO - Loaded 4 samples from ./data/params/07563.pkl
+2025-10-02 16:03:51,925 - data.dataloader - INFO - Loaded 4 samples from ./data/params/07894.pkl
+2025-10-02 16:03:51,927 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08122.pkl
+2025-10-02 16:03:51,928 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08276.pkl
+2025-10-02 16:03:51,930 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08448.pkl
+2025-10-02 16:03:51,931 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08523.pkl
+2025-10-02 16:03:51,932 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08532.pkl
+2025-10-02 16:03:51,934 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08671.pkl
+2025-10-02 16:03:51,935 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08718.pkl
+2025-10-02 16:03:51,936 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08770.pkl
+2025-10-02 16:03:51,938 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08865.pkl
+2025-10-02 16:03:51,939 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08882.pkl
+2025-10-02 16:03:51,940 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08927.pkl
+2025-10-02 16:03:51,942 - data.dataloader - INFO - Loaded 4 samples from ./data/params/09068.pkl
+2025-10-02 16:03:51,943 - data.dataloader - INFO - Loaded 4 samples from ./data/params/09121.pkl
+2025-10-02 16:03:51,943 - data.dataloader - INFO - Total samples: 320
+2025-10-02 16:03:51,944 - data.dataloader - INFO - Train samples: 288, Val samples: 32
+2025-10-02 16:03:52,149 - data.dataloader - INFO - Saved split data to ./data/temp_split
+2025-10-02 16:03:52,150 - data.dataloader - INFO - Creating training dataloader for ./data/temp_split/train_data.pkl
+2025-10-02 16:03:52,182 - data.dataloader - INFO - Processed 72 groups from list data (4 elements per group)
+2025-10-02 16:03:52,205 - data.dataloader - INFO - Data statistics - Mean: -0.0001, Std: 0.0448, Range: [-0.7502, 0.6851]
+2025-10-02 16:03:52,207 - data.dataloader - INFO - Loaded dataset with 72 samples from ./data/temp_split/train_data.pkl
+2025-10-02 16:03:52,207 - data.dataloader - INFO - Creating validation dataloader for ./data/temp_split/val_data.pkl
+2025-10-02 16:03:52,210 - data.dataloader - INFO - Processed 8 groups from list data (4 elements per group)
+2025-10-02 16:03:52,213 - data.dataloader - INFO - Data statistics - Mean: 0.0003, Std: 0.0444, Range: [-0.6148, 0.7837]
+2025-10-02 16:03:52,213 - data.dataloader - INFO - Loaded dataset with 8 samples from ./data/temp_split/val_data.pkl
+2025-10-02 16:03:52,213 - __main__ - INFO - Creating trainer...
+2025-10-02 16:03:52,251 - models.ddpm - INFO - Initialized DDPM with 1000 timesteps, cosine schedule
+2025-10-02 16:03:57,905 - training.trainer - INFO - Starting training...

@@ -1,0 +1,317 @@
+2025-10-02 16:04:22,768 - __main__ - INFO - Creating data loaders...
+2025-10-02 16:04:22,768 - data.dataloader - INFO - Creating train and validation dataloaders
+2025-10-02 16:04:22,801 - data.dataloader - INFO - Found 80 data files
+2025-10-02 16:04:22,835 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01105.pkl
+2025-10-02 16:04:22,901 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01109.pkl
+2025-10-02 16:04:22,966 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01210.pkl
+2025-10-02 16:04:23,032 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01276.pkl
+2025-10-02 16:04:23,098 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01362.pkl
+2025-10-02 16:04:23,163 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01450.pkl
+2025-10-02 16:04:23,229 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01480.pkl
+2025-10-02 16:04:23,295 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01545.pkl
+2025-10-02 16:04:23,359 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01647.pkl
+2025-10-02 16:04:23,423 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01649.pkl
+2025-10-02 16:04:23,502 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01781.pkl
+2025-10-02 16:04:23,566 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01878.pkl
+2025-10-02 16:04:23,629 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01889.pkl
+2025-10-02 16:04:23,693 - data.dataloader - INFO - Loaded 4 samples from ./data/params/01990.pkl
+2025-10-02 16:04:23,757 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02220.pkl
+2025-10-02 16:04:23,822 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02245.pkl
+2025-10-02 16:04:23,888 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02303.pkl
+2025-10-02 16:04:23,948 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02311.pkl
+2025-10-02 16:04:24,011 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02389.pkl
+2025-10-02 16:04:24,074 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02397.pkl
+2025-10-02 16:04:24,139 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02515.pkl
+2025-10-02 16:04:24,201 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02707.pkl
+2025-10-02 16:04:24,263 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02728.pkl
+2025-10-02 16:04:24,324 - data.dataloader - INFO - Loaded 4 samples from ./data/params/02825.pkl
+2025-10-02 16:04:24,386 - data.dataloader - INFO - Loaded 4 samples from ./data/params/03325.pkl
+2025-10-02 16:04:24,448 - data.dataloader - INFO - Loaded 4 samples from ./data/params/03580.pkl
+2025-10-02 16:04:24,512 - data.dataloader - INFO - Loaded 4 samples from ./data/params/03669.pkl
+2025-10-02 16:04:24,574 - data.dataloader - INFO - Loaded 4 samples from ./data/params/03701.pkl
+2025-10-02 16:04:24,636 - data.dataloader - INFO - Loaded 4 samples from ./data/params/03780.pkl
+2025-10-02 16:04:24,698 - data.dataloader - INFO - Loaded 4 samples from ./data/params/03792.pkl
+2025-10-02 16:04:24,769 - data.dataloader - INFO - Loaded 4 samples from ./data/params/03852.pkl
+2025-10-02 16:04:24,834 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04266.pkl
+2025-10-02 16:04:24,896 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04301.pkl
+2025-10-02 16:04:24,960 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04327.pkl
+2025-10-02 16:04:25,020 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04402.pkl
+2025-10-02 16:04:25,082 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04493.pkl
+2025-10-02 16:04:25,144 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04670.pkl
+2025-10-02 16:04:25,208 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04757.pkl
+2025-10-02 16:04:25,275 - data.dataloader - INFO - Loaded 4 samples from ./data/params/04786.pkl
+2025-10-02 16:04:25,339 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05075.pkl
+2025-10-02 16:04:25,403 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05184.pkl
+2025-10-02 16:04:25,433 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05221.pkl
+2025-10-02 16:04:25,434 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05295.pkl
+2025-10-02 16:04:25,435 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05489.pkl
+2025-10-02 16:04:25,466 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05617.pkl
+2025-10-02 16:04:25,527 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05630.pkl
+2025-10-02 16:04:25,590 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05658.pkl
+2025-10-02 16:04:25,652 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05696.pkl
+2025-10-02 16:04:25,668 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05701.pkl
+2025-10-02 16:04:25,669 - data.dataloader - INFO - Loaded 4 samples from ./data/params/05886.pkl
+2025-10-02 16:04:25,671 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06179.pkl
+2025-10-02 16:04:25,673 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06204.pkl
+2025-10-02 16:04:25,675 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06265.pkl
+2025-10-02 16:04:25,677 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06268.pkl
+2025-10-02 16:04:25,679 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06401.pkl
+2025-10-02 16:04:25,681 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06425.pkl
+2025-10-02 16:04:25,683 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06518.pkl
+2025-10-02 16:04:25,685 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06566.pkl
+2025-10-02 16:04:25,688 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06736.pkl
+2025-10-02 16:04:25,692 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06802.pkl
+2025-10-02 16:04:25,696 - data.dataloader - INFO - Loaded 4 samples from ./data/params/06949.pkl
+2025-10-02 16:04:25,698 - data.dataloader - INFO - Loaded 4 samples from ./data/params/07078.pkl
+2025-10-02 16:04:25,700 - data.dataloader - INFO - Loaded 4 samples from ./data/params/07145.pkl
+2025-10-02 16:04:25,702 - data.dataloader - INFO - Loaded 4 samples from ./data/params/07342.pkl
+2025-10-02 16:04:25,704 - data.dataloader - INFO - Loaded 4 samples from ./data/params/07419.pkl
+2025-10-02 16:04:25,706 - data.dataloader - INFO - Loaded 4 samples from ./data/params/07563.pkl
+2025-10-02 16:04:25,707 - data.dataloader - INFO - Loaded 4 samples from ./data/params/07894.pkl
+2025-10-02 16:04:25,710 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08122.pkl
+2025-10-02 16:04:25,711 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08276.pkl
+2025-10-02 16:04:25,714 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08448.pkl
+2025-10-02 16:04:25,715 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08523.pkl
+2025-10-02 16:04:25,718 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08532.pkl
+2025-10-02 16:04:25,719 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08671.pkl
+2025-10-02 16:04:25,723 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08718.pkl
+2025-10-02 16:04:25,724 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08770.pkl
+2025-10-02 16:04:25,727 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08865.pkl
+2025-10-02 16:04:25,729 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08882.pkl
+2025-10-02 16:04:25,730 - data.dataloader - INFO - Loaded 4 samples from ./data/params/08927.pkl
+2025-10-02 16:04:25,732 - data.dataloader - INFO - Loaded 4 samples from ./data/params/09068.pkl
+2025-10-02 16:04:25,734 - data.dataloader - INFO - Loaded 4 samples from ./data/params/09121.pkl
+2025-10-02 16:04:25,734 - data.dataloader - INFO - Total samples: 320
+2025-10-02 16:04:25,734 - data.dataloader - INFO - Train samples: 288, Val samples: 32
+2025-10-02 16:04:25,965 - data.dataloader - INFO - Saved split data to ./data/temp_split
+2025-10-02 16:04:25,965 - data.dataloader - INFO - Creating training dataloader for ./data/temp_split/train_data.pkl
+2025-10-02 16:04:26,270 - data.dataloader - INFO - Processed 72 groups from list data (4 elements per group)
+2025-10-02 16:04:26,305 - data.dataloader - INFO - Data statistics - Mean: -0.0001, Std: 0.0448, Range: [-0.7502, 0.6851]
+2025-10-02 16:04:26,306 - data.dataloader - INFO - Loaded dataset with 72 samples from ./data/temp_split/train_data.pkl
+2025-10-02 16:04:26,307 - data.dataloader - INFO - Creating validation dataloader for ./data/temp_split/val_data.pkl
+2025-10-02 16:04:26,311 - data.dataloader - INFO - Processed 8 groups from list data (4 elements per group)
+2025-10-02 16:04:26,314 - data.dataloader - INFO - Data statistics - Mean: 0.0003, Std: 0.0444, Range: [-0.6148, 0.7837]
+2025-10-02 16:04:26,314 - data.dataloader - INFO - Loaded dataset with 8 samples from ./data/temp_split/val_data.pkl
+2025-10-02 16:04:26,314 - __main__ - INFO - Creating trainer...
+2025-10-02 16:04:26,354 - models.ddpm - INFO - Initialized DDPM with 1000 timesteps, cosine schedule
+/nfs5/zxd/Huawei/lora-diffusion/training/trainer.py:42: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  self.scaler = GradScaler() if config.system.mixed_precision else None
+2025-10-02 16:04:29,568 - training.trainer - INFO - Starting training...
+Epoch 0:   0%|          | 0/4 [00:00<?, ?it/s]/nfs5/zxd/Huawei/lora-diffusion/training/trainer.py:125: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+Epoch 0:   0%|          | 0/4 [00:00<?, ?it/s, loss=1.0078]Epoch 0:  25%|██▌       | 1/4 [00:00<00:02,  1.27it/s, loss=1.0078]Epoch 0:  25%|██▌       | 1/4 [00:00<00:02,  1.27it/s, loss=1.0557]Epoch 0:  50%|█████     | 2/4 [00:00<00:00,  2.31it/s, loss=1.0557]Epoch 0:  50%|█████     | 2/4 [00:01<00:00,  2.31it/s, loss=1.0142]Epoch 0:  75%|███████▌  | 3/4 [00:01<00:00,  3.26it/s, loss=1.0142]Epoch 0:  75%|███████▌  | 3/4 [00:01<00:00,  3.26it/s, loss=0.9900]Epoch 0: 100%|██████████| 4/4 [00:01<00:00,  4.06it/s, loss=0.9900]Epoch 0: 100%|██████████| 4/4 [00:01<00:00,  2.88it/s, loss=0.9900]
+2025-10-02 16:04:30,963 - training.trainer - INFO - Epoch 0: Train Loss = 1.0169
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.45it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.62it/s]
+2025-10-02 16:04:31,349 - training.trainer - INFO - Epoch 0: Val Loss = 1.0307
+2025-10-02 16:04:51,566 - training.trainer - INFO - Saved checkpoint to best_model.pt
+Epoch 1:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 1:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0500]Epoch 1:  25%|██▌       | 1/4 [00:01<00:03,  1.22s/it, loss=1.0500]Epoch 1:  25%|██▌       | 1/4 [00:01<00:03,  1.22s/it, loss=1.0828]Epoch 1:  50%|█████     | 2/4 [00:01<00:01,  1.70it/s, loss=1.0828]Epoch 1:  50%|█████     | 2/4 [00:01<00:01,  1.70it/s, loss=1.0108]Epoch 1:  75%|███████▌  | 3/4 [00:01<00:00,  2.63it/s, loss=1.0108]Epoch 1:  75%|███████▌  | 3/4 [00:01<00:00,  2.63it/s, loss=0.9957]Epoch 1: 100%|██████████| 4/4 [00:01<00:00,  3.55it/s, loss=0.9957]Epoch 1: 100%|██████████| 4/4 [00:01<00:00,  2.33it/s, loss=0.9957]
+2025-10-02 16:04:53,294 - training.trainer - INFO - Epoch 1: Train Loss = 1.0348
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.61it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.70it/s]
+2025-10-02 16:04:53,570 - training.trainer - INFO - Epoch 1: Val Loss = 1.0146
+2025-10-02 16:05:03,472 - training.trainer - INFO - Saved checkpoint to best_model.pt
+Epoch 2:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 2:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0286]Epoch 2:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it, loss=1.0286]Epoch 2:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it, loss=1.0016]Epoch 2:  50%|█████     | 2/4 [00:01<00:01,  1.72it/s, loss=1.0016]Epoch 2:  50%|█████     | 2/4 [00:01<00:01,  1.72it/s, loss=0.9981]Epoch 2:  75%|███████▌  | 3/4 [00:01<00:00,  2.64it/s, loss=0.9981]Epoch 2:  75%|███████▌  | 3/4 [00:01<00:00,  2.64it/s, loss=1.0410]Epoch 2: 100%|██████████| 4/4 [00:01<00:00,  3.57it/s, loss=1.0410]Epoch 2: 100%|██████████| 4/4 [00:01<00:00,  2.32it/s, loss=1.0410]
+2025-10-02 16:05:05,204 - training.trainer - INFO - Epoch 2: Train Loss = 1.0173
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.63it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.65it/s]
+2025-10-02 16:05:05,586 - training.trainer - INFO - Epoch 2: Val Loss = 0.9623
+2025-10-02 16:05:21,120 - training.trainer - INFO - Saved checkpoint to best_model.pt
+Epoch 3:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 3:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0193]Epoch 3:  25%|██▌       | 1/4 [00:01<00:04,  1.42s/it, loss=1.0193]Epoch 3:  25%|██▌       | 1/4 [00:01<00:04,  1.42s/it, loss=0.9558]Epoch 3:  50%|█████     | 2/4 [00:01<00:01,  1.34it/s, loss=0.9558]Epoch 3:  50%|█████     | 2/4 [00:01<00:01,  1.34it/s, loss=1.0321]Epoch 3:  75%|███████▌  | 3/4 [00:01<00:00,  2.10it/s, loss=1.0321]Epoch 3:  75%|███████▌  | 3/4 [00:01<00:00,  2.10it/s, loss=0.9952]Epoch 3: 100%|██████████| 4/4 [00:01<00:00,  2.92it/s, loss=0.9952]Epoch 3: 100%|██████████| 4/4 [00:02<00:00,  1.93it/s, loss=0.9952]
+2025-10-02 16:05:23,199 - training.trainer - INFO - Epoch 3: Train Loss = 1.0006
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.33it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.09it/s]
+2025-10-02 16:05:23,527 - training.trainer - INFO - Epoch 3: Val Loss = 1.0530
+Epoch 4:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 4:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0026]Epoch 4:  25%|██▌       | 1/4 [00:01<00:03,  1.24s/it, loss=1.0026]Epoch 4:  25%|██▌       | 1/4 [00:01<00:03,  1.24s/it, loss=0.9934]Epoch 4:  50%|█████     | 2/4 [00:01<00:01,  1.52it/s, loss=0.9934]Epoch 4:  50%|█████     | 2/4 [00:01<00:01,  1.52it/s, loss=1.0192]Epoch 4:  75%|███████▌  | 3/4 [00:01<00:00,  2.34it/s, loss=1.0192]Epoch 4:  75%|███████▌  | 3/4 [00:01<00:00,  2.34it/s, loss=0.9878]Epoch 4: 100%|██████████| 4/4 [00:01<00:00,  3.17it/s, loss=0.9878]Epoch 4: 100%|██████████| 4/4 [00:01<00:00,  2.10it/s, loss=0.9878]
+2025-10-02 16:05:25,441 - training.trainer - INFO - Epoch 4: Train Loss = 1.0007
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.91it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.96it/s]
+2025-10-02 16:05:25,783 - training.trainer - INFO - Epoch 4: Val Loss = 1.0645
+Epoch 5:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 5:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0058]Epoch 5:  25%|██▌       | 1/4 [00:01<00:03,  1.21s/it, loss=1.0058]Epoch 5:  25%|██▌       | 1/4 [00:01<00:03,  1.21s/it, loss=0.9960]Epoch 5:  50%|█████     | 2/4 [00:01<00:01,  1.57it/s, loss=0.9960]Epoch 5:  50%|█████     | 2/4 [00:01<00:01,  1.57it/s, loss=0.9915]Epoch 5:  75%|███████▌  | 3/4 [00:01<00:00,  2.35it/s, loss=0.9915]Epoch 5:  75%|███████▌  | 3/4 [00:01<00:00,  2.35it/s, loss=0.9792]Epoch 5: 100%|██████████| 4/4 [00:01<00:00,  2.91it/s, loss=0.9792]Epoch 5: 100%|██████████| 4/4 [00:01<00:00,  2.06it/s, loss=0.9792]
+2025-10-02 16:05:27,729 - training.trainer - INFO - Epoch 5: Train Loss = 0.9931
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.32it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.40it/s]
+2025-10-02 16:05:28,028 - training.trainer - INFO - Epoch 5: Val Loss = 1.0025
+Epoch 6:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 6:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9547]Epoch 6:  25%|██▌       | 1/4 [00:01<00:03,  1.18s/it, loss=0.9547]Epoch 6:  25%|██▌       | 1/4 [00:01<00:03,  1.18s/it, loss=0.9967]Epoch 6:  50%|█████     | 2/4 [00:01<00:01,  1.55it/s, loss=0.9967]Epoch 6:  50%|█████     | 2/4 [00:01<00:01,  1.55it/s, loss=0.9866]Epoch 6:  75%|███████▌  | 3/4 [00:01<00:00,  2.38it/s, loss=0.9866]Epoch 6:  75%|███████▌  | 3/4 [00:01<00:00,  2.38it/s, loss=0.9946]Epoch 6: 100%|██████████| 4/4 [00:01<00:00,  3.20it/s, loss=0.9946]Epoch 6: 100%|██████████| 4/4 [00:01<00:00,  2.14it/s, loss=0.9946]
+2025-10-02 16:05:29,899 - training.trainer - INFO - Epoch 6: Train Loss = 0.9831
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.42it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.47it/s]
+2025-10-02 16:05:30,309 - training.trainer - INFO - Epoch 6: Val Loss = 1.0353
+Epoch 7:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 7:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0222]Epoch 7:  25%|██▌       | 1/4 [00:01<00:03,  1.24s/it, loss=1.0222]Epoch 7:  25%|██▌       | 1/4 [00:01<00:03,  1.24s/it, loss=1.0348]Epoch 7:  50%|█████     | 2/4 [00:01<00:01,  1.56it/s, loss=1.0348]Epoch 7:  50%|█████     | 2/4 [00:01<00:01,  1.56it/s, loss=1.0358]Epoch 7:  75%|███████▌  | 3/4 [00:01<00:00,  2.06it/s, loss=1.0358]Epoch 7:  75%|███████▌  | 3/4 [00:01<00:00,  2.06it/s, loss=1.0065]Epoch 7: 100%|██████████| 4/4 [00:01<00:00,  2.66it/s, loss=1.0065]Epoch 7: 100%|██████████| 4/4 [00:02<00:00,  1.93it/s, loss=1.0065]
+2025-10-02 16:05:32,384 - training.trainer - INFO - Epoch 7: Train Loss = 1.0248
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.53it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.60it/s]
+2025-10-02 16:05:32,773 - training.trainer - INFO - Epoch 7: Val Loss = 1.0032
+Epoch 8:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 8:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0342]Epoch 8:  25%|██▌       | 1/4 [00:01<00:03,  1.27s/it, loss=1.0342]Epoch 8:  25%|██▌       | 1/4 [00:01<00:03,  1.27s/it, loss=1.0095]Epoch 8:  50%|█████     | 2/4 [00:01<00:01,  1.54it/s, loss=1.0095]Epoch 8:  50%|█████     | 2/4 [00:01<00:01,  1.54it/s, loss=1.0153]Epoch 8:  75%|███████▌  | 3/4 [00:01<00:00,  2.31it/s, loss=1.0153]Epoch 8:  75%|███████▌  | 3/4 [00:01<00:00,  2.31it/s, loss=0.9805]Epoch 8: 100%|██████████| 4/4 [00:01<00:00,  3.14it/s, loss=0.9805]Epoch 8: 100%|██████████| 4/4 [00:01<00:00,  2.07it/s, loss=0.9805]
+2025-10-02 16:05:34,708 - training.trainer - INFO - Epoch 8: Train Loss = 1.0099
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.80it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.42it/s]
+2025-10-02 16:05:35,125 - training.trainer - INFO - Epoch 8: Val Loss = 1.0404
+Epoch 9:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 9:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9951]Epoch 9:  25%|██▌       | 1/4 [00:01<00:03,  1.27s/it, loss=0.9951]Epoch 9:  25%|██▌       | 1/4 [00:01<00:03,  1.27s/it, loss=0.9772]Epoch 9:  50%|█████     | 2/4 [00:01<00:01,  1.53it/s, loss=0.9772]Epoch 9:  50%|█████     | 2/4 [00:01<00:01,  1.53it/s, loss=1.0260]Epoch 9:  75%|███████▌  | 3/4 [00:01<00:00,  2.36it/s, loss=1.0260]Epoch 9:  75%|███████▌  | 3/4 [00:01<00:00,  2.36it/s, loss=0.9814]Epoch 9: 100%|██████████| 4/4 [00:01<00:00,  3.07it/s, loss=0.9814]Epoch 9: 100%|██████████| 4/4 [00:01<00:00,  2.09it/s, loss=0.9814]
+2025-10-02 16:05:37,050 - training.trainer - INFO - Epoch 9: Train Loss = 0.9949
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.74it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.05it/s]
+2025-10-02 16:05:37,543 - training.trainer - INFO - Epoch 9: Val Loss = 1.0351
+Epoch 10:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 10:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0159]Epoch 10:  25%|██▌       | 1/4 [00:01<00:04,  1.56s/it, loss=1.0159]Epoch 10:  25%|██▌       | 1/4 [00:01<00:04,  1.56s/it, loss=0.9679]Epoch 10:  50%|█████     | 2/4 [00:01<00:01,  1.30it/s, loss=0.9679]Epoch 10:  50%|█████     | 2/4 [00:01<00:01,  1.30it/s, loss=0.9763]Epoch 10:  75%|███████▌  | 3/4 [00:01<00:00,  1.97it/s, loss=0.9763]Epoch 10:  75%|███████▌  | 3/4 [00:02<00:00,  1.97it/s, loss=0.9880]Epoch 10: 100%|██████████| 4/4 [00:02<00:00,  2.68it/s, loss=0.9880]Epoch 10: 100%|██████████| 4/4 [00:02<00:00,  1.76it/s, loss=0.9880]
+2025-10-02 16:05:39,817 - training.trainer - INFO - Epoch 10: Train Loss = 0.9870
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.77it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  1.88it/s]
+2025-10-02 16:05:40,352 - training.trainer - INFO - Epoch 10: Val Loss = 0.9867
+Epoch 11:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 11:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0166]Epoch 11:  25%|██▌       | 1/4 [00:01<00:03,  1.27s/it, loss=1.0166]Epoch 11:  25%|██▌       | 1/4 [00:01<00:03,  1.27s/it, loss=1.0473]Epoch 11:  50%|█████     | 2/4 [00:01<00:01,  1.52it/s, loss=1.0473]Epoch 11:  50%|█████     | 2/4 [00:01<00:01,  1.52it/s, loss=1.1201]Epoch 11:  75%|███████▌  | 3/4 [00:01<00:00,  2.10it/s, loss=1.1201]Epoch 11:  75%|███████▌  | 3/4 [00:01<00:00,  2.10it/s, loss=0.9944]Epoch 11: 100%|██████████| 4/4 [00:01<00:00,  2.72it/s, loss=0.9944]Epoch 11: 100%|██████████| 4/4 [00:02<00:00,  1.95it/s, loss=0.9944]
+2025-10-02 16:05:42,414 - training.trainer - INFO - Epoch 11: Train Loss = 1.0446
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  1.96it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  1.67it/s]
+2025-10-02 16:05:43,046 - training.trainer - INFO - Epoch 11: Val Loss = 1.0310
+Epoch 12:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 12:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9545]Epoch 12:  25%|██▌       | 1/4 [00:01<00:03,  1.24s/it, loss=0.9545]Epoch 12:  25%|██▌       | 1/4 [00:01<00:03,  1.24s/it, loss=0.9980]Epoch 12:  50%|█████     | 2/4 [00:01<00:01,  1.56it/s, loss=0.9980]Epoch 12:  50%|█████     | 2/4 [00:01<00:01,  1.56it/s, loss=0.9634]Epoch 12:  75%|███████▌  | 3/4 [00:01<00:00,  2.34it/s, loss=0.9634]Epoch 12:  75%|███████▌  | 3/4 [00:01<00:00,  2.34it/s, loss=0.9617]Epoch 12: 100%|██████████| 4/4 [00:01<00:00,  3.15it/s, loss=0.9617]Epoch 12: 100%|██████████| 4/4 [00:01<00:00,  2.15it/s, loss=0.9617]
+2025-10-02 16:05:44,908 - training.trainer - INFO - Epoch 12: Train Loss = 0.9694
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  5.20it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.26it/s]
+2025-10-02 16:05:45,218 - training.trainer - INFO - Epoch 12: Val Loss = 0.9969
+Epoch 13:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 13:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0449]Epoch 13:  25%|██▌       | 1/4 [00:01<00:03,  1.09s/it, loss=1.0449]Epoch 13:  25%|██▌       | 1/4 [00:01<00:03,  1.09s/it, loss=1.0379]Epoch 13:  50%|█████     | 2/4 [00:01<00:01,  1.80it/s, loss=1.0379]Epoch 13:  50%|█████     | 2/4 [00:01<00:01,  1.80it/s, loss=0.9571]Epoch 13:  75%|███████▌  | 3/4 [00:01<00:00,  2.63it/s, loss=0.9571]Epoch 13:  75%|███████▌  | 3/4 [00:01<00:00,  2.63it/s, loss=0.9823]Epoch 13: 100%|██████████| 4/4 [00:01<00:00,  3.40it/s, loss=0.9823]Epoch 13: 100%|██████████| 4/4 [00:01<00:00,  2.33it/s, loss=0.9823]
+2025-10-02 16:05:46,944 - training.trainer - INFO - Epoch 13: Train Loss = 1.0056
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.66it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.02it/s]
+2025-10-02 16:05:47,280 - training.trainer - INFO - Epoch 13: Val Loss = 1.0029
+Epoch 14:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 14:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9959]Epoch 14:  25%|██▌       | 1/4 [00:01<00:03,  1.20s/it, loss=0.9959]Epoch 14:  25%|██▌       | 1/4 [00:01<00:03,  1.20s/it, loss=0.9896]Epoch 14:  50%|█████     | 2/4 [00:01<00:01,  1.63it/s, loss=0.9896]Epoch 14:  50%|█████     | 2/4 [00:01<00:01,  1.63it/s, loss=0.9950]Epoch 14:  75%|███████▌  | 3/4 [00:01<00:00,  2.46it/s, loss=0.9950]Epoch 14:  75%|███████▌  | 3/4 [00:01<00:00,  2.46it/s, loss=1.0094]Epoch 14: 100%|██████████| 4/4 [00:01<00:00,  3.35it/s, loss=1.0094]Epoch 14: 100%|██████████| 4/4 [00:01<00:00,  2.21it/s, loss=1.0094]
+2025-10-02 16:05:49,093 - training.trainer - INFO - Epoch 14: Train Loss = 0.9975
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.74it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.11it/s]
+2025-10-02 16:05:49,419 - training.trainer - INFO - Epoch 14: Val Loss = 0.9463
+2025-10-02 16:06:17,177 - training.trainer - INFO - Saved checkpoint to best_model.pt
+Epoch 15:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 15:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0414]Epoch 15:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it, loss=1.0414]Epoch 15:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it, loss=0.9834]Epoch 15:  50%|█████     | 2/4 [00:01<00:01,  1.78it/s, loss=0.9834]Epoch 15:  50%|█████     | 2/4 [00:01<00:01,  1.78it/s, loss=0.9673]Epoch 15:  75%|███████▌  | 3/4 [00:01<00:00,  2.71it/s, loss=0.9673]Epoch 15:  75%|███████▌  | 3/4 [00:01<00:00,  2.71it/s, loss=0.9682]Epoch 15: 100%|██████████| 4/4 [00:01<00:00,  3.64it/s, loss=0.9682]Epoch 15: 100%|██████████| 4/4 [00:01<00:00,  2.41it/s, loss=0.9682]
+2025-10-02 16:06:18,876 - training.trainer - INFO - Epoch 15: Train Loss = 0.9900
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.41it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.97it/s]
+2025-10-02 16:06:19,217 - training.trainer - INFO - Epoch 15: Val Loss = 0.9716
+Epoch 16:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 16:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0300]Epoch 16:  25%|██▌       | 1/4 [00:01<00:03,  1.10s/it, loss=1.0300]Epoch 16:  25%|██▌       | 1/4 [00:01<00:03,  1.10s/it, loss=1.0509]Epoch 16:  50%|█████     | 2/4 [00:01<00:01,  1.76it/s, loss=1.0509]Epoch 16:  50%|█████     | 2/4 [00:01<00:01,  1.76it/s, loss=1.0129]Epoch 16:  75%|███████▌  | 3/4 [00:01<00:00,  2.61it/s, loss=1.0129]Epoch 16:  75%|███████▌  | 3/4 [00:01<00:00,  2.61it/s, loss=1.0371]Epoch 16: 100%|██████████| 4/4 [00:01<00:00,  3.46it/s, loss=1.0371]Epoch 16: 100%|██████████| 4/4 [00:01<00:00,  2.33it/s, loss=1.0371]
+2025-10-02 16:06:20,941 - training.trainer - INFO - Epoch 16: Train Loss = 1.0327
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.46it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.93it/s]
+2025-10-02 16:06:21,287 - training.trainer - INFO - Epoch 16: Val Loss = 0.9558
+Epoch 17:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 17:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9932]Epoch 17:  25%|██▌       | 1/4 [00:01<00:03,  1.27s/it, loss=0.9932]Epoch 17:  25%|██▌       | 1/4 [00:01<00:03,  1.27s/it, loss=0.9534]Epoch 17:  50%|█████     | 2/4 [00:01<00:01,  1.51it/s, loss=0.9534]Epoch 17:  50%|█████     | 2/4 [00:01<00:01,  1.51it/s, loss=1.0329]Epoch 17:  75%|███████▌  | 3/4 [00:01<00:00,  2.18it/s, loss=1.0329]Epoch 17:  75%|███████▌  | 3/4 [00:01<00:00,  2.18it/s, loss=1.0127]Epoch 17: 100%|██████████| 4/4 [00:01<00:00,  3.04it/s, loss=1.0127]Epoch 17: 100%|██████████| 4/4 [00:01<00:00,  2.05it/s, loss=1.0127]
+2025-10-02 16:06:23,243 - training.trainer - INFO - Epoch 17: Train Loss = 0.9981
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.52it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.96it/s]
+2025-10-02 16:06:23,585 - training.trainer - INFO - Epoch 17: Val Loss = 0.9981
+Epoch 18:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 18:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0333]Epoch 18:  25%|██▌       | 1/4 [00:01<00:03,  1.14s/it, loss=1.0333]Epoch 18:  25%|██▌       | 1/4 [00:01<00:03,  1.14s/it, loss=1.0303]Epoch 18:  50%|█████     | 2/4 [00:01<00:01,  1.67it/s, loss=1.0303]Epoch 18:  50%|█████     | 2/4 [00:01<00:01,  1.67it/s, loss=0.9336]Epoch 18:  75%|███████▌  | 3/4 [00:01<00:00,  2.51it/s, loss=0.9336]Epoch 18:  75%|███████▌  | 3/4 [00:01<00:00,  2.51it/s, loss=0.9746]Epoch 18: 100%|██████████| 4/4 [00:01<00:00,  3.29it/s, loss=0.9746]Epoch 18: 100%|██████████| 4/4 [00:01<00:00,  2.22it/s, loss=0.9746]
+2025-10-02 16:06:25,390 - training.trainer - INFO - Epoch 18: Train Loss = 0.9929
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.63it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.94it/s]
+2025-10-02 16:06:25,732 - training.trainer - INFO - Epoch 18: Val Loss = 0.9418
+2025-10-02 16:06:50,648 - training.trainer - INFO - Saved checkpoint to best_model.pt
+Epoch 19:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 19:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0267]Epoch 19:  25%|██▌       | 1/4 [00:01<00:03,  1.13s/it, loss=1.0267]Epoch 19:  25%|██▌       | 1/4 [00:01<00:03,  1.13s/it, loss=1.0571]Epoch 19:  50%|█████     | 2/4 [00:01<00:01,  1.80it/s, loss=1.0571]Epoch 19:  50%|█████     | 2/4 [00:01<00:01,  1.80it/s, loss=1.0021]Epoch 19:  75%|███████▌  | 3/4 [00:01<00:00,  2.74it/s, loss=1.0021]Epoch 19:  75%|███████▌  | 3/4 [00:01<00:00,  2.74it/s, loss=0.9549]Epoch 19: 100%|██████████| 4/4 [00:01<00:00,  3.59it/s, loss=0.9549]Epoch 19: 100%|██████████| 4/4 [00:01<00:00,  2.37it/s, loss=0.9549]
+2025-10-02 16:06:52,343 - training.trainer - INFO - Epoch 19: Train Loss = 1.0102
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.83it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.08it/s]
+2025-10-02 16:06:52,671 - training.trainer - INFO - Epoch 19: Val Loss = 1.0038
+Epoch 20:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 20:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0103]Epoch 20:  25%|██▌       | 1/4 [00:01<00:03,  1.19s/it, loss=1.0103]Epoch 20:  25%|██▌       | 1/4 [00:01<00:03,  1.19s/it, loss=0.9980]Epoch 20:  50%|█████     | 2/4 [00:01<00:01,  1.63it/s, loss=0.9980]Epoch 20:  50%|█████     | 2/4 [00:01<00:01,  1.63it/s, loss=1.0059]Epoch 20:  75%|███████▌  | 3/4 [00:01<00:00,  2.46it/s, loss=1.0059]Epoch 20:  75%|███████▌  | 3/4 [00:01<00:00,  2.46it/s, loss=0.9669]Epoch 20: 100%|██████████| 4/4 [00:01<00:00,  3.36it/s, loss=0.9669]Epoch 20: 100%|██████████| 4/4 [00:01<00:00,  2.21it/s, loss=0.9669]
+2025-10-02 16:06:54,486 - training.trainer - INFO - Epoch 20: Train Loss = 0.9953
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.39it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.88it/s]
+2025-10-02 16:06:54,837 - training.trainer - INFO - Epoch 20: Val Loss = 0.9904
+Epoch 21:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 21:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9908]Epoch 21:  25%|██▌       | 1/4 [00:01<00:03,  1.12s/it, loss=0.9908]Epoch 21:  25%|██▌       | 1/4 [00:01<00:03,  1.12s/it, loss=0.9836]Epoch 21:  50%|█████     | 2/4 [00:01<00:01,  1.70it/s, loss=0.9836]Epoch 21:  50%|█████     | 2/4 [00:01<00:01,  1.70it/s, loss=0.9554]Epoch 21:  75%|███████▌  | 3/4 [00:01<00:00,  2.50it/s, loss=0.9554]Epoch 21:  75%|███████▌  | 3/4 [00:01<00:00,  2.50it/s, loss=0.9748]Epoch 21: 100%|██████████| 4/4 [00:01<00:00,  3.23it/s, loss=0.9748]Epoch 21: 100%|██████████| 4/4 [00:01<00:00,  2.24it/s, loss=0.9748]
+2025-10-02 16:06:56,628 - training.trainer - INFO - Epoch 21: Train Loss = 0.9762
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.50it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.91it/s]
+2025-10-02 16:06:56,976 - training.trainer - INFO - Epoch 21: Val Loss = 1.0119
+Epoch 22:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 22:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0026]Epoch 22:  25%|██▌       | 1/4 [00:01<00:04,  1.47s/it, loss=1.0026]Epoch 22:  25%|██▌       | 1/4 [00:01<00:04,  1.47s/it, loss=1.0005]Epoch 22:  50%|█████     | 2/4 [00:01<00:01,  1.37it/s, loss=1.0005]Epoch 22:  50%|█████     | 2/4 [00:01<00:01,  1.37it/s, loss=1.0072]Epoch 22:  75%|███████▌  | 3/4 [00:01<00:00,  2.10it/s, loss=1.0072]Epoch 22:  75%|███████▌  | 3/4 [00:01<00:00,  2.10it/s, loss=0.9953]Epoch 22: 100%|██████████| 4/4 [00:01<00:00,  2.96it/s, loss=0.9953]Epoch 22: 100%|██████████| 4/4 [00:02<00:00,  1.90it/s, loss=0.9953]
+2025-10-02 16:06:59,091 - training.trainer - INFO - Epoch 22: Train Loss = 1.0014
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.18it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.81it/s]
+2025-10-02 16:06:59,453 - training.trainer - INFO - Epoch 22: Val Loss = 1.0059
+Epoch 23:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 23:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9950]Epoch 23:  25%|██▌       | 1/4 [00:01<00:03,  1.29s/it, loss=0.9950]Epoch 23:  25%|██▌       | 1/4 [00:01<00:03,  1.29s/it, loss=1.0451]Epoch 23:  50%|█████     | 2/4 [00:01<00:01,  1.54it/s, loss=1.0451]Epoch 23:  50%|█████     | 2/4 [00:01<00:01,  1.54it/s, loss=1.0341]Epoch 23:  75%|███████▌  | 3/4 [00:01<00:00,  2.27it/s, loss=1.0341]Epoch 23:  75%|███████▌  | 3/4 [00:01<00:00,  2.27it/s, loss=1.0357]Epoch 23: 100%|██████████| 4/4 [00:01<00:00,  3.04it/s, loss=1.0357]Epoch 23: 100%|██████████| 4/4 [00:01<00:00,  2.05it/s, loss=1.0357]
+2025-10-02 16:07:01,406 - training.trainer - INFO - Epoch 23: Train Loss = 1.0275
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.57it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.02it/s]
+2025-10-02 16:07:01,742 - training.trainer - INFO - Epoch 23: Val Loss = 0.9485
+Epoch 24:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 24:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0045]Epoch 24:  25%|██▌       | 1/4 [00:01<00:03,  1.10s/it, loss=1.0045]Epoch 24:  25%|██▌       | 1/4 [00:01<00:03,  1.10s/it, loss=0.9421]Epoch 24:  50%|█████     | 2/4 [00:01<00:01,  1.73it/s, loss=0.9421]Epoch 24:  50%|█████     | 2/4 [00:01<00:01,  1.73it/s, loss=1.0170]Epoch 24:  75%|███████▌  | 3/4 [00:01<00:00,  2.56it/s, loss=1.0170]Epoch 24:  75%|███████▌  | 3/4 [00:01<00:00,  2.56it/s, loss=0.9485]Epoch 24: 100%|██████████| 4/4 [00:01<00:00,  3.35it/s, loss=0.9485]Epoch 24: 100%|██████████| 4/4 [00:01<00:00,  2.31it/s, loss=0.9485]
+2025-10-02 16:07:03,478 - training.trainer - INFO - Epoch 24: Train Loss = 0.9780
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.53it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.11it/s]
+2025-10-02 16:07:03,802 - training.trainer - INFO - Epoch 24: Val Loss = 0.9872
+Epoch 25:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 25:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0138]Epoch 25:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it, loss=1.0138]Epoch 25:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it, loss=0.9852]Epoch 25:  50%|█████     | 2/4 [00:01<00:01,  1.64it/s, loss=0.9852]Epoch 25:  50%|█████     | 2/4 [00:01<00:01,  1.64it/s, loss=1.0041]Epoch 25:  75%|███████▌  | 3/4 [00:01<00:00,  2.50it/s, loss=1.0041]Epoch 25:  75%|███████▌  | 3/4 [00:01<00:00,  2.50it/s, loss=0.9839]Epoch 25: 100%|██████████| 4/4 [00:01<00:00,  3.35it/s, loss=0.9839]Epoch 25: 100%|██████████| 4/4 [00:01<00:00,  2.22it/s, loss=0.9839]
+2025-10-02 16:07:05,606 - training.trainer - INFO - Epoch 25: Train Loss = 0.9967
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.86it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.10it/s]
+2025-10-02 16:07:05,934 - training.trainer - INFO - Epoch 25: Val Loss = 1.0357
+Epoch 26:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 26:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0352]Epoch 26:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it, loss=1.0352]Epoch 26:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it, loss=0.9985]Epoch 26:  50%|█████     | 2/4 [00:01<00:01,  1.67it/s, loss=0.9985]Epoch 26:  50%|█████     | 2/4 [00:01<00:01,  1.67it/s, loss=1.0230]Epoch 26:  75%|███████▌  | 3/4 [00:01<00:00,  2.46it/s, loss=1.0230]Epoch 26:  75%|███████▌  | 3/4 [00:01<00:00,  2.46it/s, loss=1.0423]Epoch 26: 100%|██████████| 4/4 [00:01<00:00,  3.12it/s, loss=1.0423]Epoch 26: 100%|██████████| 4/4 [00:01<00:00,  2.19it/s, loss=1.0423]
+2025-10-02 16:07:07,767 - training.trainer - INFO - Epoch 26: Train Loss = 1.0248
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.67it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.41it/s]
+2025-10-02 16:07:08,188 - training.trainer - INFO - Epoch 26: Val Loss = 1.0319
+Epoch 27:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 27:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0648]Epoch 27:  25%|██▌       | 1/4 [00:01<00:03,  1.32s/it, loss=1.0648]Epoch 27:  25%|██▌       | 1/4 [00:01<00:03,  1.32s/it, loss=1.0374]Epoch 27:  50%|█████     | 2/4 [00:01<00:01,  1.49it/s, loss=1.0374]Epoch 27:  50%|█████     | 2/4 [00:01<00:01,  1.49it/s, loss=1.0699]Epoch 27:  75%|███████▌  | 3/4 [00:01<00:00,  2.32it/s, loss=1.0699]Epoch 27:  75%|███████▌  | 3/4 [00:01<00:00,  2.32it/s, loss=0.9319]Epoch 27: 100%|██████████| 4/4 [00:01<00:00,  3.12it/s, loss=0.9319]Epoch 27: 100%|██████████| 4/4 [00:01<00:00,  2.04it/s, loss=0.9319]
+2025-10-02 16:07:10,156 - training.trainer - INFO - Epoch 27: Train Loss = 1.0260
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.34it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.21it/s]
+2025-10-02 16:07:10,471 - training.trainer - INFO - Epoch 27: Val Loss = 1.0084
+Epoch 28:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 28:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0020]Epoch 28:  25%|██▌       | 1/4 [00:01<00:03,  1.11s/it, loss=1.0020]Epoch 28:  25%|██▌       | 1/4 [00:01<00:03,  1.11s/it, loss=1.0075]Epoch 28:  50%|█████     | 2/4 [00:01<00:01,  1.70it/s, loss=1.0075]Epoch 28:  50%|█████     | 2/4 [00:01<00:01,  1.70it/s, loss=0.9781]Epoch 28:  75%|███████▌  | 3/4 [00:01<00:00,  2.59it/s, loss=0.9781]Epoch 28:  75%|███████▌  | 3/4 [00:01<00:00,  2.59it/s, loss=0.9870]Epoch 28: 100%|██████████| 4/4 [00:01<00:00,  3.42it/s, loss=0.9870]Epoch 28: 100%|██████████| 4/4 [00:01<00:00,  2.30it/s, loss=0.9870]
+2025-10-02 16:07:12,211 - training.trainer - INFO - Epoch 28: Train Loss = 0.9936
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.64it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.08it/s]
+2025-10-02 16:07:12,539 - training.trainer - INFO - Epoch 28: Val Loss = 1.0660
+Epoch 29:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 29:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0122]Epoch 29:  25%|██▌       | 1/4 [00:01<00:03,  1.13s/it, loss=1.0122]Epoch 29:  25%|██▌       | 1/4 [00:01<00:03,  1.13s/it, loss=1.0136]Epoch 29:  50%|█████     | 2/4 [00:01<00:01,  1.69it/s, loss=1.0136]Epoch 29:  50%|█████     | 2/4 [00:01<00:01,  1.69it/s, loss=0.9811]Epoch 29:  75%|███████▌  | 3/4 [00:01<00:00,  2.61it/s, loss=0.9811]Epoch 29:  75%|███████▌  | 3/4 [00:01<00:00,  2.61it/s, loss=1.0135]Epoch 29: 100%|██████████| 4/4 [00:01<00:00,  3.45it/s, loss=1.0135]Epoch 29: 100%|██████████| 4/4 [00:01<00:00,  2.30it/s, loss=1.0135]
+2025-10-02 16:07:14,284 - training.trainer - INFO - Epoch 29: Train Loss = 1.0051
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.36it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.13it/s]
+2025-10-02 16:07:14,608 - training.trainer - INFO - Epoch 29: Val Loss = 1.0203
+Epoch 30:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 30:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9808]Epoch 30:  25%|██▌       | 1/4 [00:01<00:03,  1.09s/it, loss=0.9808]Epoch 30:  25%|██▌       | 1/4 [00:01<00:03,  1.09s/it, loss=1.0438]Epoch 30:  50%|█████     | 2/4 [00:01<00:01,  1.71it/s, loss=1.0438]Epoch 30:  50%|█████     | 2/4 [00:01<00:01,  1.71it/s, loss=1.0452]Epoch 30:  75%|███████▌  | 3/4 [00:01<00:00,  2.42it/s, loss=1.0452]Epoch 30:  75%|███████▌  | 3/4 [00:01<00:00,  2.42it/s, loss=1.0199]Epoch 30: 100%|██████████| 4/4 [00:01<00:00,  3.20it/s, loss=1.0199]Epoch 30: 100%|██████████| 4/4 [00:01<00:00,  2.21it/s, loss=1.0199]
+2025-10-02 16:07:16,422 - training.trainer - INFO - Epoch 30: Train Loss = 1.0224
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.69it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.62it/s]
+2025-10-02 16:07:16,808 - training.trainer - INFO - Epoch 30: Val Loss = 0.9934
+Epoch 31:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 31:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9603]Epoch 31:  25%|██▌       | 1/4 [00:01<00:03,  1.18s/it, loss=0.9603]Epoch 31:  25%|██▌       | 1/4 [00:01<00:03,  1.18s/it, loss=0.9544]Epoch 31:  50%|█████     | 2/4 [00:01<00:01,  1.57it/s, loss=0.9544]Epoch 31:  50%|█████     | 2/4 [00:01<00:01,  1.57it/s, loss=1.0220]Epoch 31:  75%|███████▌  | 3/4 [00:01<00:00,  2.35it/s, loss=1.0220]Epoch 31:  75%|███████▌  | 3/4 [00:01<00:00,  2.35it/s, loss=0.9748]Epoch 31: 100%|██████████| 4/4 [00:01<00:00,  3.07it/s, loss=0.9748]Epoch 31: 100%|██████████| 4/4 [00:01<00:00,  2.07it/s, loss=0.9748]
+2025-10-02 16:07:18,747 - training.trainer - INFO - Epoch 31: Train Loss = 0.9779
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.37it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.08it/s]
+2025-10-02 16:07:19,076 - training.trainer - INFO - Epoch 31: Val Loss = 0.9296
+2025-10-02 16:07:38,486 - training.trainer - INFO - Saved checkpoint to best_model.pt
+Epoch 32:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 32:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0166]Epoch 32:  25%|██▌       | 1/4 [00:01<00:03,  1.24s/it, loss=1.0166]Epoch 32:  25%|██▌       | 1/4 [00:01<00:03,  1.24s/it, loss=1.0286]Epoch 32:  50%|█████     | 2/4 [00:01<00:01,  1.64it/s, loss=1.0286]Epoch 32:  50%|█████     | 2/4 [00:01<00:01,  1.64it/s, loss=1.0529]Epoch 32:  75%|███████▌  | 3/4 [00:01<00:00,  2.51it/s, loss=1.0529]Epoch 32:  75%|███████▌  | 3/4 [00:01<00:00,  2.51it/s, loss=1.0064]Epoch 32: 100%|██████████| 4/4 [00:01<00:00,  3.37it/s, loss=1.0064]Epoch 32: 100%|██████████| 4/4 [00:01<00:00,  2.22it/s, loss=1.0064]
+2025-10-02 16:07:40,298 - training.trainer - INFO - Epoch 32: Train Loss = 1.0261
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.13it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.31it/s]
+2025-10-02 16:07:40,735 - training.trainer - INFO - Epoch 32: Val Loss = 1.0443
+Epoch 33:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 33:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9915]Epoch 33:  25%|██▌       | 1/4 [00:01<00:03,  1.23s/it, loss=0.9915]Epoch 33:  25%|██▌       | 1/4 [00:01<00:03,  1.23s/it, loss=1.0203]Epoch 33:  50%|█████     | 2/4 [00:01<00:01,  1.59it/s, loss=1.0203]Epoch 33:  50%|█████     | 2/4 [00:01<00:01,  1.59it/s, loss=0.9977]Epoch 33:  75%|███████▌  | 3/4 [00:01<00:00,  2.37it/s, loss=0.9977]Epoch 33:  75%|███████▌  | 3/4 [00:01<00:00,  2.37it/s, loss=1.0330]Epoch 33: 100%|██████████| 4/4 [00:01<00:00,  3.05it/s, loss=1.0330]Epoch 33: 100%|██████████| 4/4 [00:01<00:00,  2.09it/s, loss=1.0330]
+2025-10-02 16:07:42,655 - training.trainer - INFO - Epoch 33: Train Loss = 1.0106
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.29it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.37it/s]
+2025-10-02 16:07:43,082 - training.trainer - INFO - Epoch 33: Val Loss = 1.0213
+Epoch 34:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 34:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9764]Epoch 34:  25%|██▌       | 1/4 [00:01<00:04,  1.41s/it, loss=0.9764]Epoch 34:  25%|██▌       | 1/4 [00:01<00:04,  1.41s/it, loss=1.0298]Epoch 34:  50%|█████     | 2/4 [00:01<00:01,  1.37it/s, loss=1.0298]Epoch 34:  50%|█████     | 2/4 [00:01<00:01,  1.37it/s, loss=1.0326]Epoch 34:  75%|███████▌  | 3/4 [00:01<00:00,  2.14it/s, loss=1.0326]Epoch 34:  75%|███████▌  | 3/4 [00:01<00:00,  2.14it/s, loss=0.9886]Epoch 34: 100%|██████████| 4/4 [00:01<00:00,  2.96it/s, loss=0.9886]Epoch 34: 100%|██████████| 4/4 [00:02<00:00,  1.94it/s, loss=0.9886]
+2025-10-02 16:07:45,149 - training.trainer - INFO - Epoch 34: Train Loss = 1.0069
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.71it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.73it/s]
+2025-10-02 16:07:45,520 - training.trainer - INFO - Epoch 34: Val Loss = 1.0202
+Epoch 35:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 35:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9990]Epoch 35:  25%|██▌       | 1/4 [00:01<00:03,  1.21s/it, loss=0.9990]Epoch 35:  25%|██▌       | 1/4 [00:01<00:03,  1.21s/it, loss=1.0247]Epoch 35:  50%|█████     | 2/4 [00:01<00:01,  1.63it/s, loss=1.0247]Epoch 35:  50%|█████     | 2/4 [00:01<00:01,  1.63it/s, loss=0.9495]Epoch 35:  75%|███████▌  | 3/4 [00:01<00:00,  2.50it/s, loss=0.9495]Epoch 35:  75%|███████▌  | 3/4 [00:01<00:00,  2.50it/s, loss=1.0574]Epoch 35: 100%|██████████| 4/4 [00:01<00:00,  3.34it/s, loss=1.0574]Epoch 35: 100%|██████████| 4/4 [00:01<00:00,  2.22it/s, loss=1.0574]
+2025-10-02 16:07:47,328 - training.trainer - INFO - Epoch 35: Train Loss = 1.0077
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.37it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.96it/s]
+2025-10-02 16:07:47,669 - training.trainer - INFO - Epoch 35: Val Loss = 1.0058
+Epoch 36:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 36:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0556]Epoch 36:  25%|██▌       | 1/4 [00:01<00:03,  1.13s/it, loss=1.0556]Epoch 36:  25%|██▌       | 1/4 [00:01<00:03,  1.13s/it, loss=1.0649]Epoch 36:  50%|█████     | 2/4 [00:01<00:01,  1.70it/s, loss=1.0649]Epoch 36:  50%|█████     | 2/4 [00:01<00:01,  1.70it/s, loss=0.9892]Epoch 36:  75%|███████▌  | 3/4 [00:01<00:00,  2.51it/s, loss=0.9892]Epoch 36:  75%|███████▌  | 3/4 [00:01<00:00,  2.51it/s, loss=0.9966]Epoch 36: 100%|██████████| 4/4 [00:01<00:00,  3.37it/s, loss=0.9966]Epoch 36: 100%|██████████| 4/4 [00:01<00:00,  2.27it/s, loss=0.9966]
+2025-10-02 16:07:49,436 - training.trainer - INFO - Epoch 36: Train Loss = 1.0266
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.38it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.23it/s]
+2025-10-02 16:07:49,751 - training.trainer - INFO - Epoch 36: Val Loss = 0.9750
+Epoch 37:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 37:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0287]Epoch 37:  25%|██▌       | 1/4 [00:01<00:03,  1.16s/it, loss=1.0287]Epoch 37:  25%|██▌       | 1/4 [00:01<00:03,  1.16s/it, loss=1.0519]Epoch 37:  50%|█████     | 2/4 [00:01<00:01,  1.63it/s, loss=1.0519]Epoch 37:  50%|█████     | 2/4 [00:01<00:01,  1.63it/s, loss=1.0211]Epoch 37:  75%|███████▌  | 3/4 [00:01<00:00,  2.50it/s, loss=1.0211]Epoch 37:  75%|███████▌  | 3/4 [00:01<00:00,  2.50it/s, loss=1.0528]Epoch 37: 100%|██████████| 4/4 [00:01<00:00,  3.33it/s, loss=1.0528]Epoch 37: 100%|██████████| 4/4 [00:01<00:00,  2.21it/s, loss=1.0528]
+2025-10-02 16:07:51,567 - training.trainer - INFO - Epoch 37: Train Loss = 1.0386
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.34it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.90it/s]
+2025-10-02 16:07:51,916 - training.trainer - INFO - Epoch 37: Val Loss = 0.9623
+Epoch 38:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 38:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9413]Epoch 38:  25%|██▌       | 1/4 [00:01<00:03,  1.14s/it, loss=0.9413]Epoch 38:  25%|██▌       | 1/4 [00:01<00:03,  1.14s/it, loss=0.9522]Epoch 38:  50%|█████     | 2/4 [00:01<00:01,  1.68it/s, loss=0.9522]Epoch 38:  50%|█████     | 2/4 [00:01<00:01,  1.68it/s, loss=0.9861]Epoch 38:  75%|███████▌  | 3/4 [00:01<00:00,  2.57it/s, loss=0.9861]Epoch 38:  75%|███████▌  | 3/4 [00:01<00:00,  2.57it/s, loss=0.9702]Epoch 38: 100%|██████████| 4/4 [00:01<00:00,  3.46it/s, loss=0.9702]Epoch 38: 100%|██████████| 4/4 [00:01<00:00,  2.29it/s, loss=0.9702]
+2025-10-02 16:07:53,664 - training.trainer - INFO - Epoch 38: Train Loss = 0.9624
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.09it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.77it/s]
+2025-10-02 16:07:54,029 - training.trainer - INFO - Epoch 38: Val Loss = 1.0082
+Epoch 39:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 39:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0190]Epoch 39:  25%|██▌       | 1/4 [00:01<00:03,  1.10s/it, loss=1.0190]Epoch 39:  25%|██▌       | 1/4 [00:01<00:03,  1.10s/it, loss=1.0102]Epoch 39:  50%|█████     | 2/4 [00:01<00:01,  1.70it/s, loss=1.0102]Epoch 39:  50%|█████     | 2/4 [00:01<00:01,  1.70it/s, loss=0.9875]Epoch 39:  75%|███████▌  | 3/4 [00:01<00:00,  2.55it/s, loss=0.9875]Epoch 39:  75%|███████▌  | 3/4 [00:01<00:00,  2.55it/s, loss=1.0168]Epoch 39: 100%|██████████| 4/4 [00:01<00:00,  3.46it/s, loss=1.0168]Epoch 39: 100%|██████████| 4/4 [00:01<00:00,  2.29it/s, loss=1.0168]
+2025-10-02 16:07:55,777 - training.trainer - INFO - Epoch 39: Train Loss = 1.0084
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.39it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.87it/s]
+2025-10-02 16:07:56,129 - training.trainer - INFO - Epoch 39: Val Loss = 0.9412
+Epoch 40:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 40:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9764]Epoch 40:  25%|██▌       | 1/4 [00:01<00:03,  1.16s/it, loss=0.9764]Epoch 40:  25%|██▌       | 1/4 [00:01<00:03,  1.16s/it, loss=0.9848]Epoch 40:  50%|█████     | 2/4 [00:01<00:01,  1.64it/s, loss=0.9848]Epoch 40:  50%|█████     | 2/4 [00:01<00:01,  1.64it/s, loss=0.9706]Epoch 40:  75%|███████▌  | 3/4 [00:01<00:00,  2.42it/s, loss=0.9706]Epoch 40:  75%|███████▌  | 3/4 [00:01<00:00,  2.42it/s, loss=1.0289]Epoch 40: 100%|██████████| 4/4 [00:01<00:00,  3.21it/s, loss=1.0289]Epoch 40: 100%|██████████| 4/4 [00:01<00:00,  2.20it/s, loss=1.0289]
+2025-10-02 16:07:57,950 - training.trainer - INFO - Epoch 40: Train Loss = 0.9902
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.38it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.85it/s]
+2025-10-02 16:07:58,306 - training.trainer - INFO - Epoch 40: Val Loss = 1.0062
+Epoch 41:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 41:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9408]Epoch 41:  25%|██▌       | 1/4 [00:01<00:03,  1.09s/it, loss=0.9408]Epoch 41:  25%|██▌       | 1/4 [00:01<00:03,  1.09s/it, loss=0.9959]Epoch 41:  50%|█████     | 2/4 [00:01<00:01,  1.75it/s, loss=0.9959]Epoch 41:  50%|█████     | 2/4 [00:01<00:01,  1.75it/s, loss=0.9544]Epoch 41:  75%|███████▌  | 3/4 [00:01<00:00,  2.64it/s, loss=0.9544]Epoch 41:  75%|███████▌  | 3/4 [00:01<00:00,  2.64it/s, loss=1.0314]Epoch 41: 100%|██████████| 4/4 [00:01<00:00,  3.55it/s, loss=1.0314]Epoch 41: 100%|██████████| 4/4 [00:01<00:00,  2.36it/s, loss=1.0314]
+2025-10-02 16:08:00,005 - training.trainer - INFO - Epoch 41: Train Loss = 0.9806
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.79it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.09it/s]
+2025-10-02 16:08:00,333 - training.trainer - INFO - Epoch 41: Val Loss = 1.0402
+Epoch 42:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 42:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0014]Epoch 42:  25%|██▌       | 1/4 [00:01<00:03,  1.13s/it, loss=1.0014]Epoch 42:  25%|██▌       | 1/4 [00:01<00:03,  1.13s/it, loss=1.0199]Epoch 42:  50%|█████     | 2/4 [00:01<00:01,  1.68it/s, loss=1.0199]Epoch 42:  50%|█████     | 2/4 [00:01<00:01,  1.68it/s, loss=1.0259]Epoch 42:  75%|███████▌  | 3/4 [00:01<00:00,  2.34it/s, loss=1.0259]Epoch 42:  75%|███████▌  | 3/4 [00:01<00:00,  2.34it/s, loss=0.9832]Epoch 42: 100%|██████████| 4/4 [00:01<00:00,  3.19it/s, loss=0.9832]Epoch 42: 100%|██████████| 4/4 [00:01<00:00,  2.18it/s, loss=0.9832]
+2025-10-02 16:08:02,172 - training.trainer - INFO - Epoch 42: Train Loss = 1.0076
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.48it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.91it/s]
+2025-10-02 16:08:02,521 - training.trainer - INFO - Epoch 42: Val Loss = 1.0054
+Epoch 43:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 43:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9938]Epoch 43:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it, loss=0.9938]Epoch 43:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it, loss=0.9585]Epoch 43:  50%|█████     | 2/4 [00:01<00:01,  1.68it/s, loss=0.9585]Epoch 43:  50%|█████     | 2/4 [00:01<00:01,  1.68it/s, loss=0.9471]Epoch 43:  75%|███████▌  | 3/4 [00:01<00:00,  2.49it/s, loss=0.9471]Epoch 43:  75%|███████▌  | 3/4 [00:01<00:00,  2.49it/s, loss=1.0200]Epoch 43: 100%|██████████| 4/4 [00:01<00:00,  3.36it/s, loss=1.0200]Epoch 43: 100%|██████████| 4/4 [00:01<00:00,  2.25it/s, loss=1.0200]
+2025-10-02 16:08:04,307 - training.trainer - INFO - Epoch 43: Train Loss = 0.9799
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.89it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.04it/s]
+2025-10-02 16:08:04,639 - training.trainer - INFO - Epoch 43: Val Loss = 1.0459
+Epoch 44:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 44:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0055]Epoch 44:  25%|██▌       | 1/4 [00:01<00:03,  1.18s/it, loss=1.0055]Epoch 44:  25%|██▌       | 1/4 [00:01<00:03,  1.18s/it, loss=1.0331]Epoch 44:  50%|█████     | 2/4 [00:01<00:01,  1.51it/s, loss=1.0331]Epoch 44:  50%|█████     | 2/4 [00:01<00:01,  1.51it/s, loss=1.0308]Epoch 44:  75%|███████▌  | 3/4 [00:01<00:00,  2.26it/s, loss=1.0308]Epoch 44:  75%|███████▌  | 3/4 [00:01<00:00,  2.26it/s, loss=0.9670]Epoch 44: 100%|██████████| 4/4 [00:01<00:00,  3.00it/s, loss=0.9670]Epoch 44: 100%|██████████| 4/4 [00:01<00:00,  2.07it/s, loss=0.9670]
+2025-10-02 16:08:06,576 - training.trainer - INFO - Epoch 44: Train Loss = 1.0091
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.31it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.01it/s]
+2025-10-02 16:08:06,913 - training.trainer - INFO - Epoch 44: Val Loss = 0.9842
+Epoch 45:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 45:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9624]Epoch 45:  25%|██▌       | 1/4 [00:01<00:03,  1.14s/it, loss=0.9624]Epoch 45:  25%|██▌       | 1/4 [00:01<00:03,  1.14s/it, loss=1.0221]Epoch 45:  50%|█████     | 2/4 [00:01<00:01,  1.70it/s, loss=1.0221]Epoch 45:  50%|█████     | 2/4 [00:01<00:01,  1.70it/s, loss=0.9825]Epoch 45:  75%|███████▌  | 3/4 [00:01<00:00,  2.53it/s, loss=0.9825]Epoch 45:  75%|███████▌  | 3/4 [00:01<00:00,  2.53it/s, loss=1.0153]Epoch 45: 100%|██████████| 4/4 [00:01<00:00,  3.32it/s, loss=1.0153]Epoch 45: 100%|██████████| 4/4 [00:01<00:00,  2.26it/s, loss=1.0153]
+2025-10-02 16:08:08,686 - training.trainer - INFO - Epoch 45: Train Loss = 0.9956
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.53it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.90it/s]
+2025-10-02 16:08:09,034 - training.trainer - INFO - Epoch 45: Val Loss = 0.9708
+Epoch 46:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 46:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9338]Epoch 46:  25%|██▌       | 1/4 [00:01<00:03,  1.12s/it, loss=0.9338]Epoch 46:  25%|██▌       | 1/4 [00:01<00:03,  1.12s/it, loss=1.0856]Epoch 46:  50%|█████     | 2/4 [00:01<00:01,  1.67it/s, loss=1.0856]Epoch 46:  50%|█████     | 2/4 [00:01<00:01,  1.67it/s, loss=0.9889]Epoch 46:  75%|███████▌  | 3/4 [00:01<00:00,  2.50it/s, loss=0.9889]Epoch 46:  75%|███████▌  | 3/4 [00:01<00:00,  2.50it/s, loss=1.0000]Epoch 46: 100%|██████████| 4/4 [00:01<00:00,  3.32it/s, loss=1.0000]Epoch 46: 100%|██████████| 4/4 [00:01<00:00,  2.25it/s, loss=1.0000]
+2025-10-02 16:08:10,822 - training.trainer - INFO - Epoch 46: Train Loss = 1.0021
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.87it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.19it/s]
+2025-10-02 16:08:11,140 - training.trainer - INFO - Epoch 46: Val Loss = 0.9854
+Epoch 47:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 47:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0428]Epoch 47:  25%|██▌       | 1/4 [00:01<00:03,  1.29s/it, loss=1.0428]Epoch 47:  25%|██▌       | 1/4 [00:01<00:03,  1.29s/it, loss=0.9655]Epoch 47:  50%|█████     | 2/4 [00:01<00:01,  1.53it/s, loss=0.9655]Epoch 47:  50%|█████     | 2/4 [00:01<00:01,  1.53it/s, loss=1.0034]Epoch 47:  75%|███████▌  | 3/4 [00:01<00:00,  2.29it/s, loss=1.0034]Epoch 47:  75%|███████▌  | 3/4 [00:01<00:00,  2.29it/s, loss=1.0076]Epoch 47: 100%|██████████| 4/4 [00:01<00:00,  3.00it/s, loss=1.0076]Epoch 47: 100%|██████████| 4/4 [00:01<00:00,  2.01it/s, loss=1.0076]
+2025-10-02 16:08:13,139 - training.trainer - INFO - Epoch 47: Train Loss = 1.0048
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.60it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.03it/s]
+2025-10-02 16:08:13,473 - training.trainer - INFO - Epoch 47: Val Loss = 0.9794
+Epoch 48:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 48:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9911]Epoch 48:  25%|██▌       | 1/4 [00:01<00:04,  1.48s/it, loss=0.9911]Epoch 48:  25%|██▌       | 1/4 [00:01<00:04,  1.48s/it, loss=0.9971]Epoch 48:  50%|█████     | 2/4 [00:01<00:01,  1.37it/s, loss=0.9971]Epoch 48:  50%|█████     | 2/4 [00:01<00:01,  1.37it/s, loss=0.9708]Epoch 48:  75%|███████▌  | 3/4 [00:01<00:00,  2.09it/s, loss=0.9708]Epoch 48:  75%|███████▌  | 3/4 [00:02<00:00,  2.09it/s, loss=0.9801]Epoch 48: 100%|██████████| 4/4 [00:02<00:00,  2.81it/s, loss=0.9801]Epoch 48: 100%|██████████| 4/4 [00:02<00:00,  1.87it/s, loss=0.9801]
+2025-10-02 16:08:15,622 - training.trainer - INFO - Epoch 48: Train Loss = 0.9848
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  4.49it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.90it/s]
+2025-10-02 16:08:15,972 - training.trainer - INFO - Epoch 48: Val Loss = 0.9450
+Epoch 49:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 49:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9224]Epoch 49:  25%|██▌       | 1/4 [00:01<00:03,  1.32s/it, loss=0.9224]Epoch 49:  25%|██▌       | 1/4 [00:01<00:03,  1.32s/it, loss=0.9310]Epoch 49:  50%|█████     | 2/4 [00:01<00:01,  1.48it/s, loss=0.9310]Epoch 49:  50%|█████     | 2/4 [00:01<00:01,  1.48it/s, loss=0.9816]Epoch 49:  75%|███████▌  | 3/4 [00:01<00:00,  2.23it/s, loss=0.9816]Epoch 49:  75%|███████▌  | 3/4 [00:01<00:00,  2.23it/s, loss=0.9615]Epoch 49: 100%|██████████| 4/4 [00:01<00:00,  3.06it/s, loss=0.9615]Epoch 49: 100%|██████████| 4/4 [00:01<00:00,  2.05it/s, loss=0.9615]
+2025-10-02 16:08:17,932 - training.trainer - INFO - Epoch 49: Train Loss = 0.9491
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.13it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.46it/s]
+2025-10-02 16:08:18,343 - training.trainer - INFO - Epoch 49: Val Loss = 1.0271
+Epoch 50:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 50:   0%|          | 0/4 [00:01<?, ?it/s, loss=0.9844]Epoch 50:  25%|██▌       | 1/4 [00:01<00:04,  1.40s/it, loss=0.9844]Epoch 50:  25%|██▌       | 1/4 [00:01<00:04,  1.40s/it, loss=1.0173]Epoch 50:  50%|█████     | 2/4 [00:01<00:01,  1.34it/s, loss=1.0173]Epoch 50:  50%|█████     | 2/4 [00:01<00:01,  1.34it/s, loss=0.9987]Epoch 50:  75%|███████▌  | 3/4 [00:01<00:00,  1.94it/s, loss=0.9987]Epoch 50:  75%|███████▌  | 3/4 [00:02<00:00,  1.94it/s, loss=1.1132]Epoch 50: 100%|██████████| 4/4 [00:02<00:00,  2.55it/s, loss=1.1132]Epoch 50: 100%|██████████| 4/4 [00:02<00:00,  1.77it/s, loss=1.1132]
+2025-10-02 16:08:20,607 - training.trainer - INFO - Epoch 50: Train Loss = 1.0284
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.44it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  1.90it/s]
+2025-10-02 16:08:21,139 - training.trainer - INFO - Epoch 50: Val Loss = 1.0185
+Epoch 51:   0%|          | 0/4 [00:00<?, ?it/s]Epoch 51:   0%|          | 0/4 [00:01<?, ?it/s, loss=1.0008]Epoch 51:  25%|██▌       | 1/4 [00:01<00:03,  1.30s/it, loss=1.0008]Epoch 51:  25%|██▌       | 1/4 [00:01<00:03,  1.30s/it, loss=0.9666]Epoch 51:  50%|█████     | 2/4 [00:01<00:01,  1.50it/s, loss=0.9666]Epoch 51:  50%|█████     | 2/4 [00:01<00:01,  1.50it/s, loss=0.9777]Epoch 51:  75%|███████▌  | 3/4 [00:01<00:00,  2.25it/s, loss=0.9777]Epoch 51:  75%|███████▌  | 3/4 [00:01<00:00,  2.25it/s, loss=1.0169]Epoch 51: 100%|██████████| 4/4 [00:01<00:00,  2.95it/s, loss=1.0169]Epoch 51: 100%|██████████| 4/4 [00:01<00:00,  2.04it/s, loss=1.0169]
+2025-10-02 16:08:23,110 - training.trainer - INFO - Epoch 51: Train Loss = 0.9905
+Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  3.47it/s]Validation: 100%|██████████| 1/1 [00:00<00:00,  2.57it/s]
+2025-10-02 16:08:23,502 - training.trainer - INFO - Epoch 51: Val Loss = 0.9740
+2025-10-02 16:08:23,503 - training.trainer - INFO - Early stopping triggered
+2025-10-02 16:08:23,503 - training.trainer - INFO - Training completed!
